@@ -53,7 +53,7 @@ class CartAPIController extends Controller
             return $this->sendError($e->getMessage());
         }
         $carts = $this->cartRepository->where('user_id',auth()->user()->id)->get();
-        return $this->sendResponse($carts->toArray(), 'Carts retrieved successfully');
+        return $this->sendResponse($carts->toArray(), 'Cart Items retrieved successfully');
     }
 
     /**
