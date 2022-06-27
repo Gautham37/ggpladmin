@@ -1,0 +1,16 @@
+[17-Aug-2021 21:43:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php on line 14
+[23-Aug-2021 07:17:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php on line 14
+[31-Aug-2021 16:59:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php on line 14
+[09-Oct-2021 01:37:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/bootstrap/app.php on line 14

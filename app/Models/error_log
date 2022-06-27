@@ -1,0 +1,664 @@
+[28-Jul-2021 03:22:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[28-Jul-2021 13:58:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[28-Jul-2021 22:25:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[29-Jul-2021 19:06:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[29-Jul-2021 22:22:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[30-Jul-2021 22:04:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[02-Aug-2021 04:09:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[02-Aug-2021 07:53:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php on line 31
+[02-Aug-2021 12:32:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[02-Aug-2021 19:55:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[03-Aug-2021 17:17:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php on line 28
+[05-Aug-2021 14:10:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[05-Aug-2021 15:54:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[05-Aug-2021 22:14:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[07-Aug-2021 17:51:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[07-Aug-2021 19:52:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[08-Aug-2021 19:41:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[10-Aug-2021 01:43:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[12-Aug-2021 02:02:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[12-Aug-2021 09:50:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[12-Aug-2021 16:20:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[13-Aug-2021 00:49:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[13-Aug-2021 04:28:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[13-Aug-2021 14:56:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[13-Aug-2021 20:02:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php on line 19
+[14-Aug-2021 03:58:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/CustomerGroups.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/CustomerGroups.php on line 11
+[14-Aug-2021 07:48:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php on line 21
+[14-Aug-2021 12:12:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[15-Aug-2021 00:09:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php on line 28
+[15-Aug-2021 02:44:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php on line 31
+[15-Aug-2021 07:18:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[15-Aug-2021 20:08:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php on line 20
+[17-Aug-2021 00:41:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[17-Aug-2021 08:17:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[17-Aug-2021 08:55:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[17-Aug-2021 22:14:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[18-Aug-2021 00:12:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/CustomerLevels.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/CustomerLevels.php on line 11
+[19-Aug-2021 00:54:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[19-Aug-2021 20:11:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[20-Aug-2021 05:35:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php on line 21
+[20-Aug-2021 11:14:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php on line 41
+[20-Aug-2021 21:27:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[20-Aug-2021 23:28:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[21-Aug-2021 03:48:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[21-Aug-2021 04:01:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[21-Aug-2021 10:35:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php on line 47
+[21-Aug-2021 15:22:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[21-Aug-2021 19:27:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php on line 20
+[22-Aug-2021 05:58:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[22-Aug-2021 10:47:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/CustomerGroups.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/CustomerGroups.php on line 11
+[23-Aug-2021 14:03:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[24-Aug-2021 11:36:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php on line 28
+[25-Aug-2021 01:24:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[25-Aug-2021 03:24:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php on line 19
+[25-Aug-2021 23:33:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[26-Aug-2021 05:11:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[26-Aug-2021 09:46:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[26-Aug-2021 21:28:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[27-Aug-2021 06:32:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[27-Aug-2021 11:08:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php on line 21
+[27-Aug-2021 14:49:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[28-Aug-2021 05:07:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[28-Aug-2021 05:20:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[29-Aug-2021 12:02:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[29-Aug-2021 19:42:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[30-Aug-2021 15:52:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php on line 19
+[31-Aug-2021 00:05:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php on line 47
+[31-Aug-2021 05:24:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[31-Aug-2021 14:59:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php on line 20
+[31-Aug-2021 22:46:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[01-Sep-2021 12:35:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[02-Sep-2021 08:53:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[03-Sep-2021 01:14:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[03-Sep-2021 08:52:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[04-Sep-2021 19:28:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[06-Sep-2021 14:51:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentIn.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentIn.php on line 26
+[06-Sep-2021 20:15:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[07-Sep-2021 04:40:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[08-Sep-2021 16:02:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[08-Sep-2021 20:07:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[09-Sep-2021 08:37:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[09-Sep-2021 13:20:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[10-Sep-2021 04:54:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[11-Sep-2021 09:26:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/MarketReview.php on line 19
+[12-Sep-2021 23:42:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[13-Sep-2021 08:42:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[13-Sep-2021 20:51:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[13-Sep-2021 21:34:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[14-Sep-2021 22:20:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[15-Sep-2021 17:18:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[16-Sep-2021 16:27:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[17-Sep-2021 09:14:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[18-Sep-2021 11:36:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[19-Sep-2021 22:15:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[20-Sep-2021 12:31:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[20-Sep-2021 21:28:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[21-Sep-2021 01:23:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php on line 31
+[21-Sep-2021 17:55:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[22-Sep-2021 01:30:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php on line 41
+[23-Sep-2021 00:14:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[23-Sep-2021 08:40:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InvoiceSettle.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InvoiceSettle.php on line 41
+[23-Sep-2021 20:31:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[24-Sep-2021 20:38:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php on line 21
+[25-Sep-2021 02:49:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php on line 41
+[25-Sep-2021 04:44:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[26-Sep-2021 04:45:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[26-Sep-2021 09:51:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[26-Sep-2021 16:03:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[26-Sep-2021 23:37:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Product.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Product.php on line 41
+[27-Sep-2021 04:35:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php on line 47
+[28-Sep-2021 00:34:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[28-Sep-2021 01:34:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[29-Sep-2021 09:50:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[29-Sep-2021 11:46:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Gallery.php on line 20
+[30-Sep-2021 01:11:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[30-Sep-2021 10:33:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20
+[01-Oct-2021 12:33:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[02-Oct-2021 09:53:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[03-Oct-2021 06:49:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[03-Oct-2021 21:34:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php on line 41
+[04-Oct-2021 00:29:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[04-Oct-2021 13:02:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ProductOrder.php on line 20
+[04-Oct-2021 22:36:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Product.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Product.php on line 41
+[05-Oct-2021 06:17:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[05-Oct-2021 09:11:09 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[06-Oct-2021 02:30:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php on line 21
+[06-Oct-2021 10:47:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Coupon.php on line 25
+[08-Oct-2021 03:39:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[08-Oct-2021 22:57:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php on line 47
+[09-Oct-2021 06:35:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[10-Oct-2021 02:53:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[10-Oct-2021 12:10:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[10-Oct-2021 16:17:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[11-Oct-2021 08:48:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InvoiceSettle.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InvoiceSettle.php on line 41
+[13-Oct-2021 19:08:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/OrderStatus.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/OrderStatus.php on line 14
+[14-Oct-2021 07:43:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/s22beta/public_html/ggpl_admin/app/Models/User.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/User.php on line 25
+[14-Oct-2021 13:15:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ProductReview.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ProductReview.php on line 19
+[14-Oct-2021 17:44:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryAddress.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryAddress.php on line 20
+[15-Oct-2021 07:12:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Payment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Payment.php on line 19
+[15-Oct-2021 23:55:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ProductPriceVariation.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ProductPriceVariation.php on line 41
+[28-Oct-2021 01:12:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[28-Oct-2021 03:39:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php on line 41
+[28-Oct-2021 22:43:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[30-Oct-2021 04:49:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[01-Nov-2021 21:12:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Field.php on line 20
+[03-Nov-2021 11:40:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[04-Nov-2021 00:43:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[06-Nov-2021 04:52:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Earning.php on line 21
+[06-Nov-2021 10:02:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[07-Nov-2021 09:39:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/FaqCategory.php on line 15
+[08-Nov-2021 03:10:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php on line 47
+[08-Nov-2021 21:02:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[09-Nov-2021 18:47:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Order.php on line 33
+[10-Nov-2021 00:44:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[10-Nov-2021 10:01:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Option.php on line 31
+[10-Nov-2021 11:00:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PaymentMode.php on line 28
+[10-Nov-2021 18:14:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[14-Nov-2021 00:33:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/DeliveryChallan.php on line 41
+[14-Nov-2021 10:11:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/OrderStatus.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/OrderStatus.php on line 14
+[16-Nov-2021 12:54:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/WebsiteSlide.php on line 38
+[17-Nov-2021 18:01:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/ExpensesCategory.php on line 28
+[17-Nov-2021 22:56:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/InventoryTrack.php on line 41
+[18-Nov-2021 02:13:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/SalesInvoice.php on line 41
+[18-Nov-2021 04:51:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/PurchaseInvoice.php on line 41
+[18-Nov-2021 08:50:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/Market.php on line 47
+[19-Nov-2021 03:20:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Eloquent' not found in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Models/LoyalityPoints.php on line 20

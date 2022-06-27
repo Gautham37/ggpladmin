@@ -1,0 +1,4 @@
+Product Name,Product Code,Price,Purchase Price,Discount Price,Purchase Quantity,Price Multiplier,Department,"Category(1-Fruits,2-vegetables)",Subcategory,HSN Code,Tax Rate (%),Description,Capacity,Package Count,Opening Stock,Unit,"Enable Alternative Unit(1-Enable,0-Disable)",Secondary Unit,Conversion Rate,"Featured(1-Yes,0-No)","Deliverable product(1-Yes,0-No)","Show in Online Store(1-Yes,0-No)","Enable Low Stock Warning(1-Yes,0-No)","Enable Low Stock Unit(1-Yes,0-No)"
+Apple,XXXX,250,150,20,0.1,120,1,1,1,124303,5,Test1,1,2,1,KGS,0,PCS,10,1,0,1,0,1
+Grapes,YYYY,200,75,30,0.2,115,1,1,1,234230,3,Test2,,3,2,KGS,0,PCS,15,0,1,0,0,0
+Brinjal,ZZZZ,300,125,40,0.3,110,1,1,1,645302,12,Test3,2,,3,KGS,1,PCS,20,1,0,0,1,0

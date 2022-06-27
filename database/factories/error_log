@@ -1,0 +1,172 @@
+[30-Jul-2021 12:53:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[30-Jul-2021 14:29:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[06-Aug-2021 10:58:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[11-Aug-2021 08:05:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[12-Aug-2021 21:34:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[14-Aug-2021 15:54:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[15-Aug-2021 18:40:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[19-Aug-2021 11:01:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[19-Aug-2021 19:22:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[21-Aug-2021 12:10:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[22-Aug-2021 17:41:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketReviewFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketReviewFactory.php on line 7
+[24-Aug-2021 20:52:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[25-Aug-2021 19:22:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[27-Aug-2021 23:15:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[30-Aug-2021 19:23:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[30-Aug-2021 19:30:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[03-Sep-2021 14:41:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[06-Sep-2021 15:29:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/CategoryFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/CategoryFactory.php on line 7
+[06-Sep-2021 20:50:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[09-Sep-2021 02:50:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[11-Sep-2021 13:27:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[13-Sep-2021 05:47:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[16-Sep-2021 08:07:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[18-Sep-2021 17:58:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[20-Sep-2021 04:16:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[22-Sep-2021 06:28:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[23-Sep-2021 05:59:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketReviewFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketReviewFactory.php on line 7
+[25-Sep-2021 10:11:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[26-Sep-2021 16:08:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[28-Sep-2021 01:58:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[01-Oct-2021 21:57:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[04-Oct-2021 15:33:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[08-Oct-2021 22:10:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[09-Oct-2021 16:00:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[10-Oct-2021 18:21:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketReviewFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketReviewFactory.php on line 7
+[30-Oct-2021 09:18:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[31-Oct-2021 06:31:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[05-Nov-2021 16:50:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[06-Nov-2021 03:33:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/FaqFactory.php on line 7
+[07-Nov-2021 01:18:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[10-Nov-2021 21:57:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7
+[13-Nov-2021 02:01:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/MarketFactory.php on line 15
+[17-Nov-2021 13:23:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/database/factories/ProductFactory.php on line 7

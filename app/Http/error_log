@@ -1,0 +1,36 @@
+[18-Aug-2021 12:41:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[24-Aug-2021 21:38:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[31-Aug-2021 05:47:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[19-Sep-2021 03:41:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[26-Sep-2021 01:52:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[07-Oct-2021 01:29:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[08-Nov-2021 03:31:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[12-Nov-2021 20:06:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8
+[18-Nov-2021 12:56:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Kernel.php on line 8

@@ -1,0 +1,312 @@
+[01-Oct-2021 03:24:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php on line 15
+[01-Oct-2021 04:34:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php on line 8
+[01-Oct-2021 06:24:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentInRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentInRequest.php on line 8
+[01-Oct-2021 10:29:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php on line 8
+[01-Oct-2021 12:14:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteSlideRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteSlideRequest.php on line 15
+[01-Oct-2021 13:17:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductRequest.php on line 8
+[01-Oct-2021 15:32:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php on line 8
+[01-Oct-2021 18:00:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateGalleryRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateGalleryRequest.php on line 8
+[01-Oct-2021 19:19:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCategoryRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCategoryRequest.php on line 8
+[01-Oct-2021 20:31:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDriversPayoutRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDriversPayoutRequest.php on line 8
+[02-Oct-2021 05:09:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentRequest.php on line 8
+[02-Oct-2021 15:28:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDeliveryAddressRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDeliveryAddressRequest.php on line 8
+[03-Oct-2021 09:36:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePermissionRequest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePermissionRequest.php on line 16
+[03-Oct-2021 14:27:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateUserRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateUserRequest.php on line 8
+[04-Oct-2021 05:04:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php on line 8
+[04-Oct-2021 05:34:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCustomerLevelsRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCustomerLevelsRequest.php on line 8
+[04-Oct-2021 09:38:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFaqRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFaqRequest.php on line 8
+[04-Oct-2021 11:23:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFavoriteRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFavoriteRequest.php on line 8
+[04-Oct-2021 15:58:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateOptionRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateOptionRequest.php on line 8
+[04-Oct-2021 17:42:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteTestimonialsRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteTestimonialsRequest.php on line 8
+[06-Oct-2021 13:59:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateNotificationRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateNotificationRequest.php on line 8
+[06-Oct-2021 19:31:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketRequest.php on line 15
+[06-Oct-2021 20:03:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php on line 15
+[07-Oct-2021 07:27:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateMarketReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateMarketReviewRequest.php on line 8
+[07-Oct-2021 11:53:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php on line 8
+[07-Oct-2021 18:26:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryChallanRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryChallanRequest.php on line 8
+[08-Oct-2021 07:56:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSalesInvoiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSalesInvoiceRequest.php on line 8
+[08-Oct-2021 22:25:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php on line 8
+[09-Oct-2021 18:16:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php on line 8
+[09-Oct-2021 18:57:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php on line 8
+[10-Oct-2021 14:29:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateOptionRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateOptionRequest.php on line 8
+[10-Oct-2021 17:25:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCustomerGroupsRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCustomerGroupsRequest.php on line 8
+[11-Oct-2021 02:45:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentRequest.php on line 8
+[11-Oct-2021 02:56:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductRequest.php on line 8
+[11-Oct-2021 11:47:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDeliveryAddressRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDeliveryAddressRequest.php on line 8
+[13-Oct-2021 05:14:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePermissionRequest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePermissionRequest.php on line 16
+[14-Oct-2021 13:09:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateOrderRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateOrderRequest.php on line 8
+[14-Oct-2021 20:39:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateMarketRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateMarketRequest.php on line 15
+[15-Oct-2021 12:05:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateWebsiteSlideRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateWebsiteSlideRequest.php on line 15
+[15-Oct-2021 14:56:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateExpensesRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateExpensesRequest.php on line 8
+[15-Oct-2021 16:16:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCurrencyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCurrencyRequest.php on line 8
+[16-Oct-2021 00:31:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateSalesInvoiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateSalesInvoiceRequest.php on line 8
+[16-Oct-2021 05:56:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateOrderRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateOrderRequest.php on line 8
+[16-Oct-2021 09:08:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentInRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreatePaymentInRequest.php on line 8
+[28-Oct-2021 09:26:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php on line 8
+[30-Oct-2021 03:34:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php on line 8
+[31-Oct-2021 08:08:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSalesInvoiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSalesInvoiceRequest.php on line 8
+[31-Oct-2021 13:50:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateGalleryRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateGalleryRequest.php on line 8
+[01-Nov-2021 03:54:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php on line 8
+[01-Nov-2021 15:58:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFaqRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFaqRequest.php on line 8
+[02-Nov-2021 13:33:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryAddressRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryAddressRequest.php on line 8
+[03-Nov-2021 10:00:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php on line 15
+[03-Nov-2021 13:05:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php on line 8
+[03-Nov-2021 15:11:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDriversPayoutRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDriversPayoutRequest.php on line 8
+[04-Nov-2021 06:24:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php on line 8
+[06-Nov-2021 13:23:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFavoriteRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFavoriteRequest.php on line 8
+[07-Nov-2021 08:39:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryChallanRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryChallanRequest.php on line 8
+[07-Nov-2021 17:41:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteSlideRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteSlideRequest.php on line 15
+[08-Nov-2021 09:01:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateNotificationRequest.php on line 8
+[09-Nov-2021 04:41:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php on line 8
+[09-Nov-2021 09:03:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php on line 8
+[09-Nov-2021 09:03:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php on line 8
+[10-Nov-2021 09:26:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDriversPayoutRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateDriversPayoutRequest.php on line 8
+[11-Nov-2021 05:57:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFaqRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateFaqRequest.php on line 8
+[11-Nov-2021 07:58:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateUserRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateUserRequest.php on line 8
+[11-Nov-2021 18:24:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCustomerLevelsRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateCustomerLevelsRequest.php on line 8
+[12-Nov-2021 03:02:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UploadRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UploadRequest.php on line 7
+[12-Nov-2021 13:34:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateSalesInvoiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateSalesInvoiceRequest.php on line 8
+[13-Nov-2021 06:53:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateRoleRequest.php on line 15
+[14-Nov-2021 10:43:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductRequest.php on line 8
+[14-Nov-2021 13:24:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateProductReviewRequest.php on line 8
+[15-Nov-2021 02:36:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteSlideRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateWebsiteSlideRequest.php on line 15
+[15-Nov-2021 06:41:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateMarketReviewRequest.php on line 8
+[16-Nov-2021 00:35:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSalesInvoiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSalesInvoiceRequest.php on line 8
+[16-Nov-2021 08:00:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryChallanRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateDeliveryChallanRequest.php on line 8
+[16-Nov-2021 10:47:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateGalleryRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/CreateGalleryRequest.php on line 8
+[19-Nov-2021 02:58:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateSpecialOffersRequest.php on line 8
+[19-Nov-2021 04:27:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateUserRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Http/Requests/UpdateUserRequest.php on line 8

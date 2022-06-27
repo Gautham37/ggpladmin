@@ -1,0 +1,38 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateFavoriteOptionsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('favorite_options', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('option_id')->unsigned()->index()->nullable();
+            $table->foreign('option_id')->references('id')->on('options')->onDelete('cascade');
+
+            $table->bigInteger('favorite_id')->unsigned()->index()->nullable();
+            $table->foreign('favorite_id')->references('id')->on('favorites')->onDelete('cascade');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('favorite_options');
+    }
+}

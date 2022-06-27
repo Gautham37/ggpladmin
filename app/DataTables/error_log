@@ -1,0 +1,1336 @@
+[28-Jul-2021 00:52:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[28-Jul-2021 06:19:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[28-Jul-2021 22:02:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[29-Jul-2021 04:52:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[29-Jul-2021 11:35:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[29-Jul-2021 13:34:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[29-Jul-2021 23:54:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[30-Jul-2021 12:44:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[31-Jul-2021 14:19:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[31-Jul-2021 20:03:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[31-Jul-2021 21:41:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[01-Aug-2021 13:17:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[02-Aug-2021 09:10:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[02-Aug-2021 15:01:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[02-Aug-2021 17:28:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[03-Aug-2021 17:11:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[03-Aug-2021 17:22:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[03-Aug-2021 20:52:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[04-Aug-2021 01:28:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[04-Aug-2021 11:25:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[04-Aug-2021 11:56:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[04-Aug-2021 21:51:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[05-Aug-2021 03:48:09 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[05-Aug-2021 03:58:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/RoleDataTable.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/RoleDataTable.php on line 9
+[05-Aug-2021 13:35:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[06-Aug-2021 07:02:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[06-Aug-2021 15:12:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[07-Aug-2021 13:47:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[08-Aug-2021 23:53:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[09-Aug-2021 02:48:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[09-Aug-2021 13:50:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[10-Aug-2021 14:37:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[10-Aug-2021 17:59:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php on line 11
+[10-Aug-2021 19:49:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[11-Aug-2021 16:04:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[12-Aug-2021 02:42:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[12-Aug-2021 06:12:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[12-Aug-2021 09:29:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[12-Aug-2021 12:39:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[12-Aug-2021 13:39:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentInDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentInDataTable.php on line 18
+[12-Aug-2021 15:29:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[12-Aug-2021 19:01:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[13-Aug-2021 02:23:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[13-Aug-2021 11:19:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[14-Aug-2021 12:03:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[14-Aug-2021 14:08:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[14-Aug-2021 17:41:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[14-Aug-2021 20:44:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[15-Aug-2021 05:30:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[15-Aug-2021 10:06:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[15-Aug-2021 10:16:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[15-Aug-2021 10:56:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[15-Aug-2021 12:47:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[15-Aug-2021 14:27:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[15-Aug-2021 19:43:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[16-Aug-2021 06:26:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[16-Aug-2021 21:27:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentInDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentInDataTable.php on line 18
+[17-Aug-2021 00:28:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[17-Aug-2021 10:36:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[17-Aug-2021 14:09:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php on line 11
+[17-Aug-2021 15:17:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[18-Aug-2021 05:23:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductReviewDataTable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductReviewDataTable.php on line 21
+[18-Aug-2021 07:30:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[18-Aug-2021 09:25:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[18-Aug-2021 11:00:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[18-Aug-2021 16:47:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[18-Aug-2021 20:05:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[18-Aug-2021 23:58:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php on line 18
+[19-Aug-2021 16:10:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php on line 11
+[19-Aug-2021 19:10:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php on line 11
+[19-Aug-2021 22:19:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[20-Aug-2021 04:32:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[20-Aug-2021 05:18:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[20-Aug-2021 20:19:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[20-Aug-2021 21:08:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[20-Aug-2021 22:43:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[21-Aug-2021 02:45:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[21-Aug-2021 06:27:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[21-Aug-2021 06:59:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[21-Aug-2021 11:13:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[21-Aug-2021 12:29:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[21-Aug-2021 19:48:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[22-Aug-2021 01:09:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php on line 18
+[22-Aug-2021 09:59:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[22-Aug-2021 12:56:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductReviewDataTable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductReviewDataTable.php on line 21
+[22-Aug-2021 22:35:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php on line 18
+[23-Aug-2021 05:53:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[23-Aug-2021 16:17:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[23-Aug-2021 23:52:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[24-Aug-2021 01:44:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[24-Aug-2021 02:12:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[24-Aug-2021 04:34:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentInDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentInDataTable.php on line 18
+[24-Aug-2021 11:45:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[24-Aug-2021 16:45:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[24-Aug-2021 18:30:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[24-Aug-2021 18:47:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[25-Aug-2021 02:49:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[25-Aug-2021 13:49:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[25-Aug-2021 19:12:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[26-Aug-2021 01:10:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[26-Aug-2021 11:52:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[26-Aug-2021 12:27:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php on line 11
+[26-Aug-2021 15:50:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[26-Aug-2021 16:51:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[26-Aug-2021 18:43:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php on line 11
+[26-Aug-2021 23:25:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[27-Aug-2021 01:49:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[27-Aug-2021 02:59:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[27-Aug-2021 08:27:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[27-Aug-2021 14:35:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[28-Aug-2021 07:18:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[29-Aug-2021 02:21:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[29-Aug-2021 09:45:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[30-Aug-2021 05:39:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php on line 18
+[30-Aug-2021 06:31:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[30-Aug-2021 09:09:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[30-Aug-2021 11:43:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[30-Aug-2021 13:37:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php on line 11
+[30-Aug-2021 13:46:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[30-Aug-2021 17:34:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php on line 18
+[30-Aug-2021 17:57:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[30-Aug-2021 18:05:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[30-Aug-2021 19:46:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[31-Aug-2021 11:54:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[03-Sep-2021 02:58:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[03-Sep-2021 09:56:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[03-Sep-2021 11:42:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[04-Sep-2021 10:14:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[04-Sep-2021 23:56:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[05-Sep-2021 00:13:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[05-Sep-2021 04:59:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[05-Sep-2021 09:51:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[05-Sep-2021 10:53:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[07-Sep-2021 10:58:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[08-Sep-2021 12:33:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[08-Sep-2021 23:22:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[09-Sep-2021 03:32:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[09-Sep-2021 11:22:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[09-Sep-2021 15:29:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[09-Sep-2021 17:57:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[09-Sep-2021 20:22:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[10-Sep-2021 06:19:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[10-Sep-2021 17:19:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[11-Sep-2021 01:44:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[11-Sep-2021 04:47:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[11-Sep-2021 05:01:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[11-Sep-2021 07:42:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[11-Sep-2021 08:08:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[11-Sep-2021 20:40:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[12-Sep-2021 08:26:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[12-Sep-2021 19:37:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[14-Sep-2021 12:21:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[14-Sep-2021 16:18:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[15-Sep-2021 01:54:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[15-Sep-2021 06:12:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[15-Sep-2021 20:24:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php on line 18
+[17-Sep-2021 00:32:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[17-Sep-2021 02:42:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[17-Sep-2021 05:19:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[17-Sep-2021 06:10:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[17-Sep-2021 08:41:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[17-Sep-2021 12:21:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[17-Sep-2021 15:00:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[17-Sep-2021 23:34:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[18-Sep-2021 04:14:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[18-Sep-2021 05:24:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[18-Sep-2021 09:30:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LowStockSummaryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LowStockSummaryDataTable.php on line 18
+[18-Sep-2021 13:02:40 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[18-Sep-2021 18:08:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[18-Sep-2021 19:09:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[18-Sep-2021 22:46:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[19-Sep-2021 04:54:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[19-Sep-2021 05:54:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[20-Sep-2021 14:47:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[20-Sep-2021 18:48:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[20-Sep-2021 22:58:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[20-Sep-2021 23:17:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php on line 18
+[20-Sep-2021 23:53:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[21-Sep-2021 05:26:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[21-Sep-2021 06:12:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php on line 18
+[21-Sep-2021 07:29:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[21-Sep-2021 10:03:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[21-Sep-2021 15:08:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[21-Sep-2021 19:35:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[21-Sep-2021 19:57:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php on line 11
+[21-Sep-2021 20:03:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[22-Sep-2021 00:28:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php on line 18
+[22-Sep-2021 09:04:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[22-Sep-2021 18:02:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php on line 20
+[22-Sep-2021 22:12:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php on line 18
+[23-Sep-2021 04:08:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[23-Sep-2021 06:30:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php on line 18
+[23-Sep-2021 11:00:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[23-Sep-2021 11:11:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[23-Sep-2021 13:22:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[23-Sep-2021 19:19:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[23-Sep-2021 19:49:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[23-Sep-2021 20:43:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[24-Sep-2021 14:04:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[24-Sep-2021 16:18:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[24-Sep-2021 18:45:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DeliveryZonesDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DeliveryZonesDataTable.php on line 18
+[24-Sep-2021 18:50:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[24-Sep-2021 23:07:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentDataTable.php on line 18
+[24-Sep-2021 23:40:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteSlideDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteSlideDataTable.php on line 18
+[25-Sep-2021 04:28:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[25-Sep-2021 06:46:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/InventoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/InventoryDataTable.php on line 18
+[25-Sep-2021 16:45:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[25-Sep-2021 19:08:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[25-Sep-2021 21:59:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[26-Sep-2021 06:05:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[26-Sep-2021 08:42:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[26-Sep-2021 13:28:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[26-Sep-2021 16:46:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[27-Sep-2021 04:10:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[27-Sep-2021 11:46:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[27-Sep-2021 12:29:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[27-Sep-2021 18:08:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[27-Sep-2021 18:16:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[27-Sep-2021 22:07:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[27-Sep-2021 22:48:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php on line 18
+[28-Sep-2021 03:15:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[28-Sep-2021 14:13:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[28-Sep-2021 17:29:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php on line 18
+[29-Sep-2021 05:09:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[30-Sep-2021 00:51:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php on line 18
+[30-Sep-2021 02:33:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php on line 20
+[30-Sep-2021 09:18:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[30-Sep-2021 19:30:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentDataTable.php on line 18
+[01-Oct-2021 04:13:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FavoriteDataTable.php on line 18
+[01-Oct-2021 14:28:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[01-Oct-2021 18:26:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[01-Oct-2021 23:19:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[02-Oct-2021 01:14:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[02-Oct-2021 14:38:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[02-Oct-2021 16:12:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DeliveryZonesDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DeliveryZonesDataTable.php on line 18
+[02-Oct-2021 18:10:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[03-Oct-2021 06:28:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[03-Oct-2021 15:50:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[03-Oct-2021 18:22:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FaqCategoryDataTable.php on line 11
+[03-Oct-2021 21:48:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php on line 11
+[03-Oct-2021 23:33:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[04-Oct-2021 02:45:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[04-Oct-2021 10:26:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[04-Oct-2021 15:50:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[05-Oct-2021 10:43:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[05-Oct-2021 13:46:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[05-Oct-2021 16:35:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[07-Oct-2021 06:51:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[07-Oct-2021 09:01:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[07-Oct-2021 10:52:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php on line 18
+[07-Oct-2021 13:12:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[07-Oct-2021 17:10:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[07-Oct-2021 23:38:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[08-Oct-2021 12:06:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[08-Oct-2021 20:46:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[09-Oct-2021 07:35:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[09-Oct-2021 12:49:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[10-Oct-2021 05:46:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[10-Oct-2021 12:31:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[10-Oct-2021 14:16:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[11-Oct-2021 00:19:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php on line 20
+[11-Oct-2021 04:03:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteTestimonialsDataTable.php on line 18
+[11-Oct-2021 08:00:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[11-Oct-2021 11:25:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/InventoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/InventoryDataTable.php on line 18
+[11-Oct-2021 12:09:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteSlideDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/WebsiteSlideDataTable.php on line 18
+[13-Oct-2021 11:42:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/UserDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/UserDataTable.php on line 11
+[13-Oct-2021 15:47:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderDataTable.php on line 19
+[14-Oct-2021 00:39:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[15-Oct-2021 19:45:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomerLevelsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomerLevelsDataTable.php on line 18
+[16-Oct-2021 00:01:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomerGroupsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomerGroupsDataTable.php on line 18
+[16-Oct-2021 03:10:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockSummaryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockSummaryDataTable.php on line 18
+[16-Oct-2021 08:58:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[27-Oct-2021 07:29:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[27-Oct-2021 11:19:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[28-Oct-2021 11:57:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[29-Oct-2021 06:27:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[29-Oct-2021 09:12:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[29-Oct-2021 11:19:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php on line 18
+[29-Oct-2021 18:33:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[30-Oct-2021 03:05:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[30-Oct-2021 17:34:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[31-Oct-2021 02:06:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[31-Oct-2021 02:40:09 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[31-Oct-2021 17:34:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[31-Oct-2021 18:32:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[31-Oct-2021 23:38:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[01-Nov-2021 03:14:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[02-Nov-2021 11:07:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[03-Nov-2021 05:22:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[03-Nov-2021 07:19:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PaymentOutDataTable.php on line 18
+[03-Nov-2021 07:59:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[04-Nov-2021 02:41:11 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[06-Nov-2021 03:44:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[06-Nov-2021 06:59:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/GalleryDataTable.php on line 11
+[06-Nov-2021 23:26:39 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StaffsDataTable.php on line 11
+[07-Nov-2021 12:09:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[07-Nov-2021 20:22:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[08-Nov-2021 10:14:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[08-Nov-2021 18:14:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[09-Nov-2021 02:38:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CurrencyDataTable.php on line 19
+[09-Nov-2021 14:49:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[09-Nov-2021 21:52:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19
+[10-Nov-2021 02:27:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/StockDetailReportDataTable.php on line 20
+[10-Nov-2021 02:58:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseReturnDataTable.php on line 18
+[10-Nov-2021 03:29:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php on line 11
+[10-Nov-2021 07:31:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/FieldDataTable.php on line 18
+[10-Nov-2021 14:34:00 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriversPayoutDataTable.php on line 11
+[10-Nov-2021 19:37:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/NotificationDataTable.php on line 11
+[11-Nov-2021 00:02:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php on line 18
+[11-Nov-2021 01:50:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[11-Nov-2021 02:48:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[12-Nov-2021 02:10:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesReturnDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesReturnDataTable.php on line 18
+[12-Nov-2021 12:16:56 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/RateListDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/RateListDataTable.php on line 18
+[12-Nov-2021 16:31:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriverDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/DriverDataTable.php on line 11
+[12-Nov-2021 18:34:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[13-Nov-2021 00:45:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/InventoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/InventoryDataTable.php on line 18
+[13-Nov-2021 05:24:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[13-Nov-2021 05:41:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EarningDataTable.php on line 11
+[13-Nov-2021 12:54:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/CustomFieldDataTable.php on line 10
+[13-Nov-2021 14:08:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionDataTable.php on line 18
+[14-Nov-2021 07:23:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryReportDataTable.php on line 20
+[14-Nov-2021 20:17:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/MarketReviewDataTable.php on line 25
+[16-Nov-2021 07:40:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseOrderDataTable.php on line 18
+[16-Nov-2021 08:21:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[16-Nov-2021 09:45:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ItemSalesSummaryDataTable.php on line 19
+[16-Nov-2021 17:29:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ProductOrderDataTable.php on line 11
+[16-Nov-2021 20:56:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/LoyalityPointDataTable.php on line 18
+[18-Nov-2021 00:12:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesCategoryDataTable.php on line 18
+[18-Nov-2021 01:10:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OptionGroupDataTable.php on line 11
+[18-Nov-2021 17:54:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/SalesInvoiceDatatable.php on line 19
+[18-Nov-2021 18:38:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/EmailnotificationsDataTable.php on line 18
+[18-Nov-2021 20:47:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/OrderStatusDataTable.php on line 11
+[19-Nov-2021 05:20:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/PurchaseInvoiceDataTable.php on line 18
+[19-Nov-2021 07:36:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Yajra\DataTables\Services\DataTable' not found in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/DataTables/ExpensesDataTable.php on line 19

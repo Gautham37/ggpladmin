@@ -1,0 +1,20 @@
+[17-Aug-2021 08:36:09 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php on line 8
+[21-Aug-2021 22:49:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php on line 8
+[22-Sep-2021 01:52:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php on line 8
+[02-Oct-2021 00:23:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php on line 8
+[10-Oct-2021 03:01:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/app/Providers/AuthServiceProvider.php on line 8

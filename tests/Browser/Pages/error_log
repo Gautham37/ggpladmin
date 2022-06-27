@@ -1,0 +1,32 @@
+[21-Aug-2021 14:54:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
+[27-Aug-2021 00:22:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
+[09-Sep-2021 21:48:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
+[17-Sep-2021 04:26:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
+[23-Sep-2021 19:07:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
+[07-Oct-2021 22:44:23 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
+[15-Oct-2021 01:05:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Tests\Browser\Pages\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/HomePage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/HomePage.php on line 7
+[15-Nov-2021 20:25:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Laravel\Dusk\Page' not found in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/s22beta/public_html/ggpl_admin/tests/Browser/Pages/Page.php on line 7
